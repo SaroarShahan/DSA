@@ -115,3 +115,13 @@ C C C C C
 D D D D D
 E E E E E
 ```
+
+### Pattern 12:
+
+```
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+```
