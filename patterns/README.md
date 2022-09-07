@@ -125,3 +125,12 @@ A B C D E
 A B C D E
 A B C D E
 ```
+### Pattern 13:
+
+```
+A B C D E
+F G H I J
+K L M N O
+P Q R S T
+U V W X Y
+```
