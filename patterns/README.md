@@ -144,3 +144,13 @@ C D E F G
 D E F G H
 E F G H I 
 ```
+
+### Pattern 15:
+
+```
+A
+B B
+C C C
+D D D D
+E E E E E
+```
