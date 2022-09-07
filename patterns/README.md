@@ -154,3 +154,63 @@ C C C
 D D D D
 E E E E E
 ```
+
+### Pattern 16:
+
+```
+A
+B C
+D E F
+G H I J
+K L M N O
+```
+
+### Pattern 17:
+
+```
+A
+B C
+C D E
+D E F G
+E F G H I
+```
+
+### Pattern 18:
+
+```
+A B C D E
+B C D E F
+C D E F G
+D E F G H
+E F G H I
+```
+
+### Pattern 19:
+
+```
+    *
+   **
+  ***
+ ****
+*****
+```
+
+### Pattern 20:
+
+```
+*****
+****
+***
+**
+*
+```
+
+### Pattern 21:
+
+```
+*****
+ ****
+  ***
+   **
+    *
+```
