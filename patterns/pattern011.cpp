@@ -5,7 +5,8 @@ int main() {
     int n;
     cin >> n;
 
-    int ch = 'A';
+    // Approach One
+    /*int ch = 'A';
 
     for(int row = 1; row <= n; row++) {
 
@@ -14,6 +15,15 @@ int main() {
 
         }
         ch++;
+
+        cout << endl;
+    } */
+
+    for(int row = 1; row <= n; row++) {
+        for(int col = 1; col <= n; col++) {
+            // Or you can store in a varialble like: char result = 'A' + row - 1;
+            cout << char('A' + row -1) << " ";
+        }
 
         cout << endl;
     }
